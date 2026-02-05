@@ -86,7 +86,7 @@ This walkthrough uses the following Python libraries:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/mmara7/traffic-sign-recognition-lessons.git
+git clone https://github.com/mmara7/Training_model_lesson.git
 ```
 ---
 
